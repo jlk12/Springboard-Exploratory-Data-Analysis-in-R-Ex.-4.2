@@ -1,5 +1,6 @@
 # Springboard-Exploratory-Data-Analysis-in-R-Ex.-4.2
 1 - Have a look at the str() of the titanic dataset.  
+
 2 - Plot the distribution of sexes within the classes of the ship.
   Use ggplot() with the data layer set to titanic.
   Map Pclass onto the x axis, Sex onto fill and draw a dodged bar plot using geom_bar(), i.e. set the geom position to "dodge".
