@@ -1,4 +1,4 @@
-# Springboard-Exploratory-Data-Analysis-in-R-Ex.-4.2
+# Springboard-Exploratory-Data-Analysis-in-R-Ex.-4.1
 1 - Have a look at the str() of the titanic dataset.  
 
 2 - Plot the distribution of sexes within the classes of the ship.
